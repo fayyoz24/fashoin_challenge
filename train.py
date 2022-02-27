@@ -14,7 +14,8 @@ import data_handler as dh
 dh.trainset
 dh.trainloader
 
-# Download and load the test data
+# Download and load the test dataclear
+
 dh.testset
 dh.testloader
 
